@@ -237,7 +237,7 @@ Works cited
 37.	The Psychology Behind Bait And Switch - FasterCapital, accessed July 19, 2025, https://fastercapital.com/topics/the-psychology-behind-bait-and-switch.html/1
 38.	The Impact Of Bait And Switch On Consumer Trust - FasterCapital, accessed July 19, 2025, https://fastercapital.com/topics/the-impact-of-bait-and-switch-on-consumer-trust.html
 39.	accessed July 19, 2025, https://tarotsmith.com/
-40.	Tarotsmith - Diib, accessed July 19, 2025, https://diib.com/featuredmembers/tarotsmith/
+40.	Tarotsmith - Medium, accessed July 19, 2025, https://medium.com/@tarotsmith/introduction-to-tarotsmith-divination-a-baptism-by-fire-630e8cad9350
 41.	Free Tarot Card Readings, accessed July 19, 2025, https://www.free-tarot-reading.net/
 42.	Kasamba Psychic Reading Chat 17+ - App Store, accessed July 19, 2025, https://apps.apple.com/us/app/kasamba-psychic-reading-chat/id1093474684
 43.	Kasamba Online Psychic Review | ConsumerRating, accessed July 19, 2025, https://consumerrating.org/online-psychics/reviews/kasamba/
@@ -295,6 +295,6 @@ Works cited
 95.	10 Customer Satisfaction Metrics You Should Track - Birdeye, accessed July 19, 2025, https://birdeye.com/blog/customer-satisfaction-metrics/
 96.	Understanding Google Page Experience | Google Search Central | Documentation, accessed July 19, 2025, https://developers.google.com/search/docs/appearance/page-experience
 97.	Data Curation in 2025: Key Concepts and Best Practices - Research AIMultiple, accessed July 19, 2025, https://research.aimultiple.com/data-curation/
-98.	Ethical Guidelines for Dataset Curation in AI Fine- Tuning - ResearchGate, accessed July 19, 2025, https://www.researchgate.net/publication/387509187_Ethical_Guidelines_for_Dataset_Curation_in_AI_Fine-_Tuning
+98.	Ethical Guidelines for Dataset Curation in AI Fine-Tuning - ResearchGate, accessed July 19, 2025, https://www.researchgate.net/publication/387509187_Ethical_Guidelines_for_Dataset_Curation_in_AI_Fine-_Tuning
 99.	Call for Proposals | Notre Dame–IBM Technology Ethics Lab | Labs & Centers, accessed July 19, 2025, https://ethics.nd.edu/labs-and-centers/notre-dame-ibm-technology-ethics-lab/call-for-proposals/
 100.	Handle Top 12 AI Ethics Dilemmas with Real Life Examples - Research AIMultiple, accessed July 19, 2025, https://research.aimultiple.com/ai-ethics/
