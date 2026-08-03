@@ -19,7 +19,7 @@ Framework for building machine-readable business schemas across multiple domains
 **Proven Impact:** Omni drove 110% Lazada sales increase in 6 months for Waking Cup.
 
 ### 🔮 [TarotSchema](https://github.com/tarotschema) · [Tarotsmith](https://tarotsmith.com)
-Structured semantic schema for tarot and oracle systems. 17 years of continuous production (2009-present). All reading logic, spreads, and symbolic interpretation programmed from scratch. Formalized for AI training and symbolic reasoning research.
+Structured semantic schema for tarot and oracle systems. 17 years of continuous production (2009-present). All reading logic, spreads, and symbolic interpretation programmed from scratch. Formalized for AI training and symbolic reasoning research. Implemented on the new, AI-enhanced active spirituality/divination site, [Zone31](https://oracle.zone31.com)
 
 **Coverage:** 20+ spreads across 8 oracle systems (Tarot, Lenormand, Runes, I Ching, Ogham, Dominoes, Playing Cards, Mahjong).
 
