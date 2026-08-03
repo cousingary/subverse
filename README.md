@@ -28,6 +28,11 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 
 **Production:** Waking Cup deployment drove the 110% Lazada lift mentioned above.
 
+### 🛡️ [Governator](https://github.com/cousingary/governator) + [Assayer](https://github.com/cousingary/assayer)
+Go-based supervisor and verification layer for coding-agent CLIs (Claude Code, Codex, OpenCode, Pi). Governator turns file scope, command authority, and budgets into deterministic, OS-enforced checks around every agent run — Landlock, network namespaces, cgroup containment — so a run either ships verified work or fails closed, never "trust me." Assayer checks and traces every generated artifact before it ships, feeding pass/fail history back into Governator's routing decisions.
+
+**Production:** Public, CI-tested, signed cross-platform releases (`v1.0.2`) — the governance layer running underneath every automation project in this portfolio.
+
 ---
 
 ## Current Projects
