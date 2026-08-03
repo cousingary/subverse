@@ -1,12 +1,17 @@
 # Jeremy Lamkin
 
-**AI Engineer | Schema Architect | Systems Thinker**
+**AI Engineer | Systems Thinker**
 
 Building AI automation systems and structured semantic schemas at the intersection of technology, business operations, and symbolic reasoning. Based in Thailand, working across real estate, e-commerce, tours, and philosophical content systems.
 
 ---
 
 ## Featured Work
+
+### 🛡️ [Governator](https://github.com/cousingary/governator) + [Assayer](https://github.com/cousingary/assayer)
+Go-based supervisor and verification layer for coding-agent CLIs (Claude Code, Codex, OpenCode, Pi). Governator turns file scope, command authority, and budgets into deterministic, OS-enforced checks around every agent run — Landlock, network namespaces, cgroup containment — so a run either ships verified work or fails closed, never "trust me." Assayer checks and traces every generated artifact before it ships, feeding pass/fail history back into Governator's routing decisions.
+
+**Production:** Public, CI-tested, signed cross-platform releases (`v1.0.2`) — the governance layer running underneath every automation project in this portfolio.
 
 ### 🗂️ [Schemalog](https://github.com/schemalog)
 Framework for building machine-readable business schemas across multiple domains. Five production implementations: tarot (Codex), e-commerce (Omni), tours (Apex), and real estate (Nexus).
@@ -27,11 +32,6 @@ Lead generation pipeline combining Scrapebox URL harvesting, Python extraction, 
 Review aggregation and customer engagement automation for Thai marketplace sellers (Lazada/Shopee). Schema markup integration, WooCommerce sync, and automated chatbot for repetitive buyer questions.
 
 **Production:** Waking Cup deployment drove the 110% Lazada lift mentioned above.
-
-### 🛡️ [Governator](https://github.com/cousingary/governator) + [Assayer](https://github.com/cousingary/assayer)
-Go-based supervisor and verification layer for coding-agent CLIs (Claude Code, Codex, OpenCode, Pi). Governator turns file scope, command authority, and budgets into deterministic, OS-enforced checks around every agent run — Landlock, network namespaces, cgroup containment — so a run either ships verified work or fails closed, never "trust me." Assayer checks and traces every generated artifact before it ships, feeding pass/fail history back into Governator's routing decisions.
-
-**Production:** Public, CI-tested, signed cross-platform releases (`v1.0.2`) — the governance layer running underneath every automation project in this portfolio.
 
 ---
 
